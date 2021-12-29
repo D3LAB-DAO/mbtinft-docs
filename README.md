@@ -1,15 +1,13 @@
-[🇰🇷 | Korean | 한국어](./README.md)
-
-[🇺🇸 | English | 영어](./README_EN.md)
+[[🇰🇷 | Korean | 한국어](./README.md)] |  [[🇺🇸 | English | 영어](./README_EN.md)]
 
 ---
-
-# MBTINFT
 
 <!--
 ![logo](./assets/logo_MBTINFT.jpeg)
 -->
-<img src="./assets/logo_MBTINFT.jpeg" width=100%>
+<img src="./assets/logo_MBTINFT.jpeg" width=40% align="left">
+
+# MBTINFT
 
 ```
 MBTI + iNFT = MBTINFT
