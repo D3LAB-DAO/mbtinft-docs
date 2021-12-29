@@ -6,7 +6,10 @@
 
 # MBTINFT
 
+<!--
 ![logo](./assets/logo_MBTINFT.jpeg)
+-->
+<img src="./assets/logo_MBTINFT.jpeg" width=100%>
 
 ```
 MBTI + iNFT = MBTINFT
@@ -43,7 +46,10 @@ MBTI + iNFT = MBTINFT
 
 # Features
 
+<!--
 ![structure](./assets/structure.png)
+-->
+<img src="./assets/structure.png" width=100%>
 
 작성 중
 
