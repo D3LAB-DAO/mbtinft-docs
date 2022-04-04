@@ -2,6 +2,14 @@
 
 ---
 
+# Repositories
+
+* [contracts](https://github.com/D3LAB-DAO/mbtinft-contracts)
+* [server](https://github.com/D3LAB-DAO/mbtinft-koGPT-server)
+* [frontend](https://github.com/D3LAB-DAO/mbtinft-frontend)
+
+---
+
 <!--
 ![logo](./assets/logo_MBTINFT.jpeg)
 -->
